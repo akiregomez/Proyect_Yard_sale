@@ -1,0 +1,22 @@
+:root {
+    --Very-light-pink: #c7c7c7;
+    --Text-input-field: #F7F7F7;
+    --White: #FFFFFF;
+    --Black: #000000;
+    --Hospital-green: #ACD9B2;
+    --Dark: #232830;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
